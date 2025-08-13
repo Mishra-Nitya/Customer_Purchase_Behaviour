@@ -20,9 +20,8 @@ This end-to-end data analysis project comprises of the following activities:
 
 ---
 
-## Conclusion  
 
-### 🔍 Problem Statement  
+## 🔍 Problem Statement  
 Analyze the Superstore Marketing Dataset containing customer information and purchasing behavior to make informed decisions. Identify patterns, trends, and correlations that will help the company optimize its marketing efforts and increase offer acceptance rates.  
 
 ---
