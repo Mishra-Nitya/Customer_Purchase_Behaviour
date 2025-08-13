@@ -28,7 +28,7 @@ Analyze the Superstore Marketing Dataset containing customer information and pur
 
 ## About the Dataset  
 
-**[Here's the link to the dataset]((https://docs.google.com/spreadsheets/d/12ln9iTNcVNOMYi_AU-OczKpa_KIP8XyVbsjk81Na8Yk/edit?usp=sharing))**
+**The Dataset is available in this repository**
 
 This data was gathered during last year's campaign.  
 
